@@ -1,0 +1,8 @@
+po,line,vendor,item,qty,unit_price,due_date
+PO-1001,1,Acme HVAC,Air filters 20x25,200,12.50,2026-05-15
+PO-1001,2,Acme HVAC,Belt set,40,18.00,2026-05-15
+PO-1002,1,Northwind Electrical,LED panel 2x4,120,46.75,2026-06-01
+PO-1003,1,Summit Plumbing Supply,Ball valve 1 in,60,22.40,2026-06-20
+PO-1003,2,Summit Plumbing Supply,Pipe insulation roll,30,9.95,2026-06-20
+PO-1004,1,Acme HVAC,Thermostat,25,64.00,2026-07-10
+PO-1005,1,Evergreen Janitorial,Floor cleaner 5 gal,48,31.20,2026-05-30

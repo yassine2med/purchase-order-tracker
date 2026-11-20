@@ -1,0 +1,17 @@
+[project]
+name = "purchase-order-tracker"
+version = "0.1.0"
+description = "Track open balances on purchase orders from PO and receipt CSV files."
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
