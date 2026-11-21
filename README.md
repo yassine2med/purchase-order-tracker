@@ -2,6 +2,8 @@
 
 # purchase-order-tracker
 
+[![CI](https://github.com/yassine2med/purchase-order-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/purchase-order-tracker/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 A purchase order stays open until everything on it has arrived, and the open balance is easy to lose track of. This repo loads PO lines and receipts from CSV files into SQLite and answers three questions: what is still open, what is late, and how much is open with each vendor.
 
 ![Screenshot](docs/screenshot.png)
