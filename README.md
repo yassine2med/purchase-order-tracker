@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="purchase-order-tracker" width="100%"></p>
+
 # purchase-order-tracker
 
 A purchase order stays open until everything on it has arrived, and the open balance is easy to lose track of. This repo loads PO lines and receipts from CSV files into SQLite and answers three questions: what is still open, what is late, and how much is open with each vendor.
